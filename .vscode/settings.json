@@ -1,0 +1,8 @@
+{
+    "editor.experimentalInlineEdit.backgroundColoring": false,
+    "editor.defaultColorDecorators": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "terminal.integrated.tabs.defaultColor": null,
+    "search.decorations.colors": true,
+    "window.autoDetectColorScheme": false
+}
