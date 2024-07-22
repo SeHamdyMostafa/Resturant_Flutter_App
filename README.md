@@ -4,32 +4,20 @@
 Restaurant App is a food delivery service application that allows users to log in, choose meals from the menu, add them to the cart, and pay using various methods. The app also provides additional features such as adding meals to favorites, editing personal data, and saving addresses.
 
 - Features
-  
-1- Start Screens: Navigate through three welcome screens at the beginning.
+  1- Start Screens: Navigate through three welcome screens at the beginning.
+  2 - Splash Screen: A splash screen that appears when the app starts.
+  3- Login: Users can log in if they have an existing account or create a new one.
+  4- Home Screen: Choose meals from the menu and add them to the cart.
+  5- Payment: Choose to pay via Visa card or cash on delivery.
+  6- Verification: Enter the verification code sent to the user's phone number to confirm the order.
+  7- Order Confirmation: A dialog appears stating that the food will be delivered in 15 minutes.
+  8- Favorites: Add meals to the favorites page.
+  9- Profile Page: View and edit personal data such as name, photo, gender, address, birth date, and phone number.
+  10- Settings: Save addresses, change email, change password, contact customer service, view FAQs, and change the language.
+  11- Notifications: View updates and new information.
+  12- Search: Search for meals in the search bar on the home screen.
+  13- Logout: Users can log out of their account.
 
-2- Splash Screen: A splash screen that appears when the app starts.
-
-3- Login: Users can log in if they have an existing account or create a new one.
-
-4- Home Screen: Choose meals from the menu and add them to the cart.
-
-5- Payment: Choose to pay via Visa card or cash on delivery.
-
-6- Verification: Enter the verification code sent to the user's phone number to confirm the order.
-
-7- Order Confirmation: A dialog appears stating that the food will be delivered in 15 minutes.
-
-8- Favorites: Add meals to the favorites page.
-
-9- Profile Page: View and edit personal data such as name, photo, gender, address, birth date, and phone number.
-
-10- Settings: Save addresses, change email, change password, contact customer service, view FAQs, and change the language.
-
-11- Notifications: View updates and new information.
-
-12- Search: Search for meals in the search bar on the home screen.
-
-13- Logout: Users can log out of their account.
   
 - Technologies Used
   
