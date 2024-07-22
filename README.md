@@ -3,6 +3,7 @@
 - Description
 Restaurant App is a food delivery service application that allows users to log in, choose meals from the menu, add them to the cart, and pay using various methods. The app also provides additional features such as adding meals to favorites, editing personal data, and saving addresses.
 
+
 - Features
   
   1- Start Screens: Navigate through three welcome screens at the beginning.
@@ -39,6 +40,7 @@ Restaurant App is a food delivery service application that allows users to log i
   2- Dart: Programming language used for writing the app.
 
   3- Firebase: Used for storing user data, orders, and all food-related data.
+  
 
 - Usage
   
@@ -62,12 +64,13 @@ Restaurant App is a food delivery service application that allows users to log i
 
   
 - Support
-  
-1- Contact Us: Reach customer service via chat, call, or email.
 
-2- FAQ: Visit the FAQ page for more information.
+  1- Contact Us: Reach customer service via chat, call, or email.
 
-3- Language Change: Change the app language from settings (Arabic/English).
+  2- FAQ: Visit the FAQ page for more information.
+
+  3- Language Change: Change the app language from settings (Arabic/English).
+
 
 - Screen for app
   
