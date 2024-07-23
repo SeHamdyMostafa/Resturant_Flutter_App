@@ -74,15 +74,15 @@ Restaurant App is a food delivery service application that allows users to log i
 
 - Screen for app
 
-  1- Start Page
+     1- Start Page
   
 <img src = "https://github.com/user-attachments/assets/2735dce0-3773-47b9-99f2-2ab7f316bcb5" width = 250 height = 450/>
 
-  2- Intro Pages
+     2- Intro Pages
 
 <img src = "https://github.com/user-attachments/assets/cd02903d-a9c2-4305-a169-6d4ae85d0e3a" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/71e872ef-1190-45d7-9272-1939198c2633" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/05492984-1ca2-4b02-b6a4-c6b1dd44e8e7" width = 250 height = 450/>
 
-  3- Register Pages
+    3- Register Pages
   
 <img src = "https://github.com/user-attachments/assets/052e3564-2485-45ed-8e38-98b01550b1df" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/27f29555-59eb-49d2-bce1-baa177b54a56" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/8990719b-f65a-47d8-b303-aaac310d512a" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/a3c07089-63db-43f6-b447-e921fb2954ea" width = 250 height = 450/>
 
