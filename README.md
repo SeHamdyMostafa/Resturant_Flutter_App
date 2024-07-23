@@ -32,7 +32,7 @@ Restaurant App is a food delivery service application that allows users to log i
 
   13- Logout: Users can log out of their account.
 
-  
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Technologies Used
   
   1- Flutter: Used for developing the application.
@@ -41,7 +41,7 @@ Restaurant App is a food delivery service application that allows users to log i
 
   3- Firebase: Used for storing user data, orders, and all food-related data.
   
-
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Usage
   
   1- Start Screens: Navigate through the three welcome screens after launching the app.
@@ -62,7 +62,7 @@ Restaurant App is a food delivery service application that allows users to log i
 
   9- Logout: Log out of your account if needed.
 
-  
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Support
 
   1- Contact Us: Reach customer service via chat, call, or email.
@@ -71,10 +71,10 @@ Restaurant App is a food delivery service application that allows users to log i
 
   3- Language Change: Change the app language from settings (Arabic/English).
 
-
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Screen for app
 
-     1- Start Page
+      1- Start Page
   
 <img src = "https://github.com/user-attachments/assets/2735dce0-3773-47b9-99f2-2ab7f316bcb5" width = 250 height = 450/>
 
@@ -102,6 +102,45 @@ Restaurant App is a food delivery service application that allows users to log i
 
 <img src = "https://github.com/user-attachments/assets/8b9d8b3f-0858-40a5-971e-7637fed86d6c" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/56048bf0-5412-4bf9-b972-bbd11b1a0ae6" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/ac46f792-c68e-40a7-ae19-600e659a6ed2" width = 250 height = 450/>
 
+    8- Favorites Page
+    
+<img src = "https://github.com/user-attachments/assets/e8862e01-f158-43d0-904f-2e53403b13ed" width = 250 height = 450/>
+
+    9- Profile Page 
+
+<img src = "https://github.com/user-attachments/assets/0c0132d0-78b0-4b56-96be-d509e7f047da" width = 250 height = 450/>
+
+    10- Edit Profile Page
+
+<img src = "https://github.com/user-attachments/assets/33a372e7-d30e-479f-b66d-5efd5651c90f" width = 250 height = 450/>
+
+    11- Settings Page
+
+<img src = "https://github.com/user-attachments/assets/46e71e5e-cd0b-4f44-97ca-cfa9cb91f1ee" width = 250 height = 450/>
+
+    12- Saved Address Page
+
+<img src = "https://github.com/user-attachments/assets/ee3ddd63-ef19-4de6-a97f-20494c12b13c" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/4564275a-55f4-4bad-8b1c-b9c62223c2e3" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/af6a1c9c-62cb-4226-accb-af0d8067cafe" width = 250 height = 450/>
+
+    13- Change Email Page
+
+<img src = "https://github.com/user-attachments/assets/be7fa8ce-9e8a-4b14-9594-0311267cae8d" width = 250 height = 450/>
+  
+    14- Change Password Page
+
+<img src = "https://github.com/user-attachments/assets/a1b4c740-58f3-4aae-a255-30008d98bdd3" width = 250 height = 450/>
+   
+    15- Contact us Page
+
+<img src = "https://github.com/user-attachments/assets/a2b42365-d861-47e5-a884-f67b8665e9e1" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/bf93ed5f-433a-4294-b832-cdb71864404b" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/7f641846-2cec-4db9-b7f3-bb9023dffde4" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/0bf10eea-0300-4945-8bbf-0293c39c3d8a" width = 250 height = 450/>
+ 
+    16- FAQ & Help Page
+
+<img src = "https://github.com/user-attachments/assets/ec822f97-0d6a-492c-8472-fa5373b5ddf5" width = 250 height = 450/>
+   
+    17- Localization
+
+<img src = "https://github.com/user-attachments/assets/d5a815fa-7f17-433b-b4e8-8acec705f434" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/9a89c94b-cc20-4877-be65-7f447e160b7b" width = 250 height = 450/>
 
   
 
