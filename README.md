@@ -3,8 +3,9 @@
 - Description
 Restaurant App is a food delivery service application that allows users to log in, choose meals from the menu, add them to the cart, and pay using various methods. The app also provides additional features such as adding meals to favorites, editing personal data, and saving addresses.
 
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Features
+## Features
   
   1- Start Screens: Navigate through three welcome screens at the beginning.
   
@@ -33,7 +34,7 @@ Restaurant App is a food delivery service application that allows users to log i
   13- Logout: Users can log out of their account.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Technologies Used
+## Technologies Used
   
   1- Flutter: Used for developing the application.
 
@@ -42,7 +43,7 @@ Restaurant App is a food delivery service application that allows users to log i
   3- Firebase: Used for storing user data, orders, and all food-related data.
   
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Usage
+## Usage
   
   1- Start Screens: Navigate through the three welcome screens after launching the app.
   
@@ -63,7 +64,7 @@ Restaurant App is a food delivery service application that allows users to log i
   9- Logout: Log out of your account if needed.
 
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Support
+## Support
 
   1- Contact Us: Reach customer service via chat, call, or email.
 
